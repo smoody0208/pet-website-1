@@ -1,0 +1,16 @@
+.dark-background {
+  background-color: black;
+  color: white
+}
+
+.light-background {
+  background-color: white;
+  color: black; 
+}
+
+.surprise-background {
+  background-image: url(https://media.giphy.com/media/l0HlBaC5Kp9cXZDTa/giphy.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+}
